@@ -14,7 +14,14 @@
     "flag D4",
     "clear E4",
     "clear E5",
-    "clear E6"
+    "clear E6",
+    "flag E1",
+    "clear E2",
+    "clear E3",
+    "flag F4",
+    "flag F5",
+    "flag F6",
+    "clear F3"
 
   ]
 }
